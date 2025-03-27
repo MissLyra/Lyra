@@ -1,7 +1,7 @@
 **Lyra Project Private License**
 **Version 1.0**
 
-Copyright (c) 2025 @BENZOOgataga and @lavecat
+Copyright (c) 2025 @BENZOOgataga and [@lavecat](@lavecat)
 
 1. Purpose
 
